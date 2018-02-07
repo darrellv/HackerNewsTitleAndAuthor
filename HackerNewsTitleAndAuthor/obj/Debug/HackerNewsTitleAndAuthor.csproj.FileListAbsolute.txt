@@ -1,0 +1,14 @@
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\HackerNewsTitleAndAuthor.dll.config
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\HackerNewsTitleAndAuthor.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\HackerNewsTitleAndAuthor.pdb
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\Newtonsoft.Json.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\RestSharp.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\System.ValueTuple.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\Newtonsoft.Json.xml
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\bin\System.ValueTuple.xml
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\obj\Debug\HackerNewsTitleAndAuthor.csprojResolveAssemblyReference.cache
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\obj\Debug\HackerNewsTitleAndAuthor.csproj.CoreCompileInputs.cache
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\obj\Debug\HackerNewsTitleAndAuthor.dll
+C:\Users\darrell.vinson\source\repos\HackerNewsTitleAndAuthor\HackerNewsTitleAndAuthor\obj\Debug\HackerNewsTitleAndAuthor.pdb
